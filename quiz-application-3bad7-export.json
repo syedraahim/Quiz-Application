@@ -1,0 +1,44 @@
+{
+  "Questions" : {
+    "Question1" : {
+      "correctAnswer" : "document.getElementById(“geek”).innerHTML=”I am a Geek”;",
+      "option1" : "document.getElement(“geek”).innerHTML=”I am a Geek”;",
+      "option2" : "document.getElementById(“geek”).innerHTML=”I am a Geek”;",
+      "option3" : "document.getId(“geek”)=”I am a Geek”;",
+      "option4" : "document.getElementById(“geek”).innerHTML=I am a Geek;",
+      "question" : "Choose the correct JavaScript syntax to change the content of the following HTML code."
+    },
+    "Question2" : {
+      "correctAnswer" : "<script src=”geek.js”>",
+      "option1" : "<script src=”geek.js”>",
+      "option2" : "<script href=”geek.js”>",
+      "option3" : "<script ref=”geek.js”>",
+      "option4" : "<script name=”geek.js”>",
+      "question" : "What is the correct syntax for referring to an external script called “geek.js”?"
+    },
+    "Question3" : {
+      "correctAnswer" : "isInteger(value)",
+      "option1" : "Integer(value)",
+      "option2" : "ifInteger(value)",
+      "option3" : "isInteger(value)",
+      "option4" : "ifinteger(value)",
+      "question" : "In JavaScript, we do not have datatypes like integer and float. What is the function that can be used to check if the number is an integer or not?"
+    },
+    "Question4" : {
+      "correctAnswer" : "All of the above.",
+      "option1" : "Increased interactivity.",
+      "option2" : "Less server interaction.",
+      "option3" : "Immediate feedback from the users.",
+      "option4" : "All of the above.",
+      "question" : "Which of the following is an advantage of using JavaScript?"
+    },
+    "Question5" : {
+      "correctAnswer" : "<script>",
+      "option1" : "<js>",
+      "option2" : "<javascript>",
+      "option3" : "<script>",
+      "option4" : "<scripting",
+      "question" : "Inside which HTML element do we put the JavaScript?"
+    }
+  }
+}
